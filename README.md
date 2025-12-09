@@ -1,6 +1,8 @@
 # Advanced-DS-Project-Hot-Hand
 The Project of Advanced Topics in Data Science 2025 Fall, Group 20. The Hot Hand Phenomenon.
 
+by Leon Wang, Peter Hu, Yuan Li
+
 In this project, we investigated the hot hand phenomenon in NBA games. Our work is based on the work of Pelechrinis and Winston (2022). See
 https://doi.org/10.1371/journal.pone.0261890
 
