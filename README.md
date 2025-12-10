@@ -25,4 +25,8 @@ Streak Selection Bias Simulation.ipynb
 
 This is the code for the example of streak selection bias on i.i.d. Bernoulli sequence
 
+hot hand LightGBM_Prediction_With_WB.ipynb
+
+This is the code with LightGBM shot-make model with WB search for optimal hyperparameters
+
 
