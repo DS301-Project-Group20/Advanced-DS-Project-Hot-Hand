@@ -23,4 +23,4 @@ hot hand LightGBM_Prediction_With_WB.ipynb - This is the code of LightGBM shot-m
 
 hot hand_LightGBM_StreakTest.ipynb - This is the code of LightGBM shot-make model with Streak Number Test together
 
-
+Hot Hand Results.xlsx - This is the results of streak number tests, hot hand ranks, and PW's results of conditional probability test
