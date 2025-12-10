@@ -20,3 +20,9 @@ This is a record of the prompts and ChatGPT's responses to the hot-hand question
 Streak Number Test Example.ipynb
 
 This is the code for the example of the streak number test on i.i.d. Bernoulli sequence
+
+Streak Selection Bias Simulation.ipynb
+
+This is the code for the example of streak selection bias on i.i.d. Bernoulli sequence
+
+
