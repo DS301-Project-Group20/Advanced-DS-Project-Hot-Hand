@@ -13,24 +13,14 @@ In our project,
 
 3. We test ChatGPT’s responses to hot hand questions and find it can correctly identify the statistical definition of hot hand and perform some statistical estimation on real data.
 
-Hot Hand ChatGPT.docx
+Hot Hand ChatGPT.docx - This is a record of the prompts and ChatGPT's responses to the hot-hand questions.
 
-This is a record of the prompts and ChatGPT's responses to the hot-hand questions.
+Streak Number Test Example.ipynb - This is the code for the example of the streak number test on i.i.d. Bernoulli sequence
 
-Streak Number Test Example.ipynb
+Streak Selection Bias Simulation.ipynb - This is the code for the example of streak selection bias on i.i.d. Bernoulli sequence
 
-This is the code for the example of the streak number test on i.i.d. Bernoulli sequence
+hot hand LightGBM_Prediction_With_WB.ipynb - This is the code of LightGBM shot-make model with WB search for optimal hyperparameters
 
-Streak Selection Bias Simulation.ipynb
-
-This is the code for the example of streak selection bias on i.i.d. Bernoulli sequence
-
-hot hand LightGBM_Prediction_With_WB.ipynb
-
-This is the code of LightGBM shot-make model with WB search for optimal hyperparameters
-
-hot hand_LightGBM_StreakTest.ipynb
-
-This is the code of LightGBM shot-make model with Streak Number Test together
+hot hand_LightGBM_StreakTest.ipynb - This is the code of LightGBM shot-make model with Streak Number Test together
 
 
