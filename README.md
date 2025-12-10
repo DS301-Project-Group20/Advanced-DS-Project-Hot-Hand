@@ -27,6 +27,10 @@ This is the code for the example of streak selection bias on i.i.d. Bernoulli se
 
 hot hand LightGBM_Prediction_With_WB.ipynb
 
-This is the code with LightGBM shot-make model with WB search for optimal hyperparameters
+This is the code of LightGBM shot-make model with WB search for optimal hyperparameters
+
+hot hand_LightGBM_StreakTest.ipynb
+
+This is the code of LightGBM shot-make model with Streak Number Test together
 
 
