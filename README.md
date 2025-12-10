@@ -12,3 +12,7 @@ In our project,
 2. We develop a new statistical test - streak number test - and find strong evidence that the hot hand exists in NBA games.
 
 3. We test ChatGPT’s responses to hot hand questions and find it can correctly identify the statistical definition of hot hand and perform some statistical estimation on real data.
+
+Hot Hand ChatGPT.docx
+This is a record of the prompts and ChatGPT's responses to the hot-hand questions.
+
