@@ -14,5 +14,9 @@ In our project,
 3. We test ChatGPT’s responses to hot hand questions and find it can correctly identify the statistical definition of hot hand and perform some statistical estimation on real data.
 
 Hot Hand ChatGPT.docx
+
 This is a record of the prompts and ChatGPT's responses to the hot-hand questions.
 
+Streak Number Test Example.ipynb
+
+This is the code for the example of the streak number test on i.i.d. Bernoulli sequence
